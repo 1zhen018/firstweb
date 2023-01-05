@@ -6,7 +6,7 @@
 body {
   font-family: Arial;
   padding: 10px;
-  background: #f1f1f1;
+  background: #D1BBFF;
 }
 
 /* Header/Blog Title */
@@ -30,7 +30,7 @@ body {
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #CCCCFF;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -53,13 +53,13 @@ body {
 .rightcolumn {
   float: left;
   width: 25%;
-  background-color: #f1f1f1;
+  background-color: #cbcbfc;
   padding-left: 20px;
 }
 
 /* Fake image */
 .fakeimg {
-  background-color: #aaa;
+  background-color: #ddd;
   width: 100%;
   padding: 20px;
 }
